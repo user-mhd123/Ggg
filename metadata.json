@@ -1,0 +1,7 @@
+{
+  "name": "LightSpeed Internet",
+  "description": "High-speed satellite internet provider landing page with multi-language support and AI voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
